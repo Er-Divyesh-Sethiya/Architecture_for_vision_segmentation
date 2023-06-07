@@ -71,9 +71,10 @@ IMAGE: ![REFINE-NET](https://raw.githubusercontent.com/Er-Divyesh-Sethiya/Archit
 
 ### 10. HR-NET ARCHITECTURE (HIGH-RESOLUTION NETWORK)
 
-IMAGE:
-PAPER:
-CODE:
+IMAGE: <img width="1394" alt="Screen_Shot_2020-06-22_at_11 03 39_PM_64dSeMm" src="https://github.com/Er-Divyesh-Sethiya/Architecture_for_vision_segmentation/assets/103837830/a947e7e3-bfcc-4d68-b255-db22de909d7f">
+
+- PAPER: https://arxiv.org/abs/1908.07919v2
+- CODE: https://github.com/HRNet/HRNet-Semantic-Segmentation
 
 ### 11. BISE-NET ARCHITECTURE (BILATERAL SEGMENTATION NETWORK)
 
