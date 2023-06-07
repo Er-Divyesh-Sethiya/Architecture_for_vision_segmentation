@@ -150,27 +150,32 @@ CODE:https://github.com/open-mmlab/mmdetection/tree/master/configs/groie
 
 ### 21. DU-NET ARCHITECTURE (DENSELY U-SHAPED NETWORK)
 
-IMAGE:
-PAPER:
-CODE:
+IMAGE:![The-architecture-of-Dense-U-Net-Its-improvements-to-U-Net-are-that-there-are-some](https://github.com/Er-Divyesh-Sethiya/Architecture_for_vision_segmentation/assets/103837830/14203f28-7805-4e89-89c5-893124c5d877)
+- <img width="535" alt="Screen_Shot_2020-06-20_at_11 33 17_PM_Mt0HOZL" src="https://github.com/Er-Divyesh-Sethiya/Architecture_for_vision_segmentation/assets/103837830/79a297b9-102f-4505-a2c6-a931e455b7dd">
+
+PAPER: https://arxiv.org/abs/1608.06993v5
+CODE: https://github.com/pytorch/vision/blob/1aef87d01eec2c0989458387fa04baebcc86ea7b/torchvision/models/densenet.py#L93
 
 ### 22. SPADE ARCHITECTURE (SPATIALLY-ADAPTIVE DENORMALIZATION)
 
-IMAGE:
-PAPER:
-CODE:
+IMAGE: ![GGyp49F](https://github.com/Er-Divyesh-Sethiya/Architecture_for_vision_segmentation/assets/103837830/00d2e0a5-b512-4f6e-856f-8b4f2a5e6659)
+
+PAPER: https://arxiv.org/abs/1903.07291
+CODE: https://github.com/NVlabs/SPADE
 
 ### 23. CG-NET ARCHITECTURE (CONTEXT-GUIDED NETWORK)
 
-IMAGE:
-PAPER:
-CODE:
+IMAGE:![Network-architecture-of-the-proposed-edge-guided-context-aggregation-network-EGCAN](https://github.com/Er-Divyesh-Sethiya/Architecture_for_vision_segmentation/assets/103837830/a578233f-05cc-48b0-b38b-96c8f5bdc678)
+
+PAPER: https://arxiv.org/abs/2305.12661
+CODE: https://github.com/wutianyiRosun/CGNet
 
 ### 24. CC-NET ARCHITECTURE (CRISS-CROSS NETWORK)
 
-IMAGE:
-PAPER:
-CODE:
+IMAGE:![50546462-851dfb00-0bed-11e9-962a-bffab2401997](https://github.com/Er-Divyesh-Sethiya/Architecture_for_vision_segmentation/assets/103837830/9ab415fc-08d7-4cf0-b444-84036b43841d)
+
+PAPER: https://arxiv.org/pdf/1811.11721.pdf%C2%A0
+CODE: https://github.com/speedinghzl/CCNet
 
 ### 25. FAST-SCNN ARCHITECTURE (FAST SEMANTIC SEGMENTATION NETWORK)
 
