@@ -61,13 +61,13 @@ IMAGE:![48841468-7d885c80-edcc-11e8-887d-e7fde8859e0c](https://github.com/Er-Div
 IMAGE: ![LinkNet-architectures-a-LinkNet-architecture-adapted-from-15-b-Simplification-of](https://github.com/Er-Divyesh-Sethiya/Architecture_for_vision_segmentation/assets/103837830/ea76ea27-5695-4459-8779-841bf35d9dd4)
 
 - PAPER: [https://arxiv.org/pdf/1707.03718v1.pdf](https://arxiv.org/pdf/1707.03718.pdf)
-- CODE: 
+- CODE: https://github.com/e-lab/pytorch-linknet
 
 ### 9. REFINE-NET ARCHITECTURE
 
-IMAGE:
-- PAPER:
-- CODE:
+IMAGE: 
+- PAPER: https://arxiv.org/abs/1611.06612
+- CODE: [https://github.com/guosheng/refinenet](https://github.com/best-of-acrv/refinenet)
 
 ### 10. HR-NET ARCHITECTURE (HIGH-RESOLUTION NETWORK)
 
