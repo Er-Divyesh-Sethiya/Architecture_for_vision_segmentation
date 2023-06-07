@@ -3,6 +3,7 @@ Here are some commonly used Architecture for vision segmentation
 - USEFUL LINK: 
 - https://github.com/osmr/imgclsmob
 - https://github.com/qubvel/segmentation_models
+- ![keras_unet_collection](https://github.com/yingkaisha/keras-unet-collection/tree/main/keras_unet_collection)
 
 ### 1. U-NET ARCHITECTURE
 
@@ -78,15 +79,16 @@ IMAGE: <img width="1394" alt="Screen_Shot_2020-06-22_at_11 03 39_PM_64dSeMm" src
 
 ### 11. BISE-NET ARCHITECTURE (BILATERAL SEGMENTATION NETWORK)
 
-IMAGE:
-PAPER:
-CODE:
+IMAGE:![The-Architecture-of-BiSeNet-Bilateral-Segmentation-Network](https://github.com/Er-Divyesh-Sethiya/Architecture_for_vision_segmentation/assets/103837830/427e5fba-6d6f-4593-9fa0-0a99de1bdeb6)
+
+PAPER: https://arxiv.org/pdf/2104.13188.pdf
+CODE: https://github.com/Blaizzy/BiSeNet-Implementation
 
 ### 12. ATTENTION U-NET ARCHITECTURE
 
 IMAGE:
 PAPER:
-CODE:
+CODE: https://github.com/LeeJunHyun/Image_Segmentation
 
 ### 13. DEXTR-NET ARCHITECTURE (DEEP EXTREME CUT)
 
@@ -187,7 +189,7 @@ CODE:
 ### 29. OCR-NET ARCHITECTURE (OBJECT-CONTEXTUAL REPRESENTATION NETWORK)
 
 IMAGE:
-PAPER:
+PAPER: https://arxiv.org/abs/1909.11065
 CODE:
 
 ### 30. LED-NET ARCHITECTURE (LIGHT WEIGHT ENCODER DECODER NETWORK)
