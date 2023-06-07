@@ -179,7 +179,7 @@ IMAGE:![50546462-851dfb00-0bed-11e9-962a-bffab2401997](https://github.com/Er-Div
 
 ### 25. FAST-SCNN ARCHITECTURE (FAST SEMANTIC SEGMENTATION NETWORK)
 
-IMAGE:
+IMAGE:![FAST-SCNN](https://raw.githubusercontent.com/Er-Divyesh-Sethiya/Architecture_for_vision_segmentation/main/FAST-SCNN.webp)
 PAPER:https://arxiv.org/abs/1902.04502
 CODE: https://github.com/Tramac/Fast-SCNN-pytorch
 
