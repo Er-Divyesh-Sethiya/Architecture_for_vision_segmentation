@@ -115,33 +115,38 @@ IMAGE: <img width="287" alt="Screen_Shot_2020-06-27_at_2 36 51_PM" src="https://
 
 ### 16. DA-NET ARCHITECTURE (DUAL ATTENTION NETWORK)
 
-IMAGE: 
-PAPER:
-CODE:
+IMAGE: ![network](https://github.com/Er-Divyesh-Sethiya/Architecture_for_vision_segmentation/assets/103837830/3ad7fa8f-d46a-4483-91e2-8d9e42e4a8a5)
+
+PAPER: https://arxiv.org/abs/1809.02983v4
+CODE: https://github.com/junfu1115/DANet
 
 ### 17. DRN ARCHITECTURE (DILATED RESIDUAL NETWORK)
 
-IMAGE:
-PAPER:
-CODE:
+IMAGE: ![84219891-56fd4580-aa86-11ea-8d71-5ddcdfa5f46e](https://github.com/Er-Divyesh-Sethiya/Architecture_for_vision_segmentation/assets/103837830/ce288ea7-ed04-41be-870c-1801129eac38)
+
+PAPER: https://arxiv.org/abs/1705.09914
+CODE: https://github.com/fyu/drn
 
 ### 18. U-NET++ ARCHITECTURE
 
-IMAGE:
-PAPER:
-CODE:
+IMAGE:<img width="1191" alt="fig_UNet++" src="https://github.com/Er-Divyesh-Sethiya/Architecture_for_vision_segmentation/assets/103837830/3027c570-66f0-49e4-ad56-83e7d693bf25">
 
-### 19. AC-NET ARCHITECTURE (ATTENTION-CAPTURING NETWORK)
+PAPER: https://arxiv.org/abs/1807.10165v1
+CODE: https://github.com/MrGiovanni/UNetPlusPlus
 
-IMAGE:
-PAPER:
-CODE:
+### 19. LWBNA_U-NET ARCHITECTURE
+
+IMAGE:![Architecture-of-a-lightweight-Deep-Learning-model-LWBNA-Unet-developed-in-present-study](https://github.com/Er-Divyesh-Sethiya/Architecture_for_vision_segmentation/assets/103837830/66759ff3-31ac-4d6b-9e96-00c9ffac0ead)
+
+PAPER: https://www.nature.com/articles/s41598-022-12486-w
+CODE: https://pypi.org/project/lwbna-unet/
 
 ### 20. FPN ARCHITECTURE (FEATURE PYRAMID NETWORK)
 
-IMAGE:
-PAPER:
-CODE:
+IMAGE:![143891453-afdcdaf4-a868-4a28-ad20-dc710a517a76](https://github.com/Er-Divyesh-Sethiya/Architecture_for_vision_segmentation/assets/103837830/0b3fe85c-90d3-4c94-abe6-f47aa8a83414)
+
+PAPER: https://arxiv.org/abs/2004.13665
+CODE:https://github.com/open-mmlab/mmdetection/tree/master/configs/groie
 
 ### 21. DU-NET ARCHITECTURE (DENSELY U-SHAPED NETWORK)
 
@@ -329,9 +334,4 @@ IMAGE:
 PAPER: https://arxiv.org/abs/2106.09748
 CODE:https://github.com/google-research/deeplab2
 
-### 50. LWBNA_U-NET ARCHITECTURE
 
-IMAGE:![Architecture-of-a-lightweight-Deep-Learning-model-LWBNA-Unet-developed-in-present-study](https://github.com/Er-Divyesh-Sethiya/Architecture_for_vision_segmentation/assets/103837830/66759ff3-31ac-4d6b-9e96-00c9ffac0ead)
-
-PAPER: https://www.nature.com/articles/s41598-022-12486-w
-CODE: https://pypi.org/project/lwbna-unet/
