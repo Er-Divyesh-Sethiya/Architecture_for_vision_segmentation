@@ -4,6 +4,7 @@ Here are some commonly used Architecture for vision segmentation
 - https://github.com/osmr/imgclsmob
 - [BACKBONE MODEL OF SEGMENTATION](https://github.com/qubvel/segmentation_models)
 - [keras_unet_collection](https://github.com/yingkaisha/keras-unet-collection/tree/main/keras_unet_collection)
+- [Improvement of Crack Segmentation Performance Using Stacking Ensemble Learning](https://www.mdpi.com/2076-3417/13/4/2367)
 
 ### 1. U-NET ARCHITECTURE
 
@@ -93,25 +94,28 @@ BRIEF: Attention in U-Net is a method to highlight only the relevant activations
 
 ### 13. DEXTR-NET ARCHITECTURE (DEEP EXTREME CUT)
 
-IMAGE:
-PAPER:
-CODE:
+IMAGE:<img width="673" alt="Screen_Shot_2020-06-24_at_1 51 37_PM" src="https://github.com/Er-Divyesh-Sethiya/Architecture_for_vision_segmentation/assets/103837830/937cebaa-96dc-4948-b026-e01061c09057">
+
+- PAPER: https://arxiv.org/abs/1711.09081v2
+- CODE: https://github.com/scaelles/DEXTR-PyTorch
 
 ### 14. PA-NET ARCHITECTURE (PATH AGGREGATION NETWORK)
 
-IMAGE:
-PAPER:
-CODE:
+IMAGE:<img width="1023" alt="Screen_Shot_2020-06-14_at_1 45 11_PM_5uZqVAp" src="https://github.com/Er-Divyesh-Sethiya/Architecture_for_vision_segmentation/assets/103837830/117d1256-5f0f-459a-a3b9-abc824c0ddc7">
+
+- PAPER: https://arxiv.org/abs/1803.01534v4
+- CODE: https://github.com/ShuLiu1993/PANet/blob/2644d5ad6ae98c2bf58df45c8792c019b1d7b2b9/lib/modeling/FPN.py#L135
 
 ### 15. ESP-NET ARCHITECTURE (EFFICIENT SPATIAL PYRAMID NETWORK)
 
-IMAGE:
-PAPER:
-CODE:
+IMAGE: <img width="287" alt="Screen_Shot_2020-06-27_at_2 36 51_PM" src="https://github.com/Er-Divyesh-Sethiya/Architecture_for_vision_segmentation/assets/103837830/2b1e5396-809f-417e-8b42-7beb4b92eb4e">
+
+- PAPER: https://arxiv.org/abs/1803.06815v3
+- CODE: https://github.com/sacmehta/ESPNet/blob/afe71c38edaee3514ca44e0adcafdf36109bf437/train/Model.py#L310
 
 ### 16. DA-NET ARCHITECTURE (DUAL ATTENTION NETWORK)
 
-IMAGE:
+IMAGE: 
 PAPER:
 CODE:
 
