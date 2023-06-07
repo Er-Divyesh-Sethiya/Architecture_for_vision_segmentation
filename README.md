@@ -87,9 +87,9 @@ IMAGE:![The-Architecture-of-BiSeNet-Bilateral-Segmentation-Network](https://gith
 ### 12. ATTENTION U-NET ARCHITECTURE
 
 BRIEF: Attention in U-Net is a method to highlight only the relevant activations during training. It reduces the computational resources wasted on irrelevant activations and provides better generalization of the network.
-IMAGE: ![Attention U-NET](https://raw.githubusercontent.com/Er-Divyesh-Sethiya/Architecture_for_vision_segmentation/main/Attention%20U-net.webp)
-PAPER: https://arxiv.org/abs/1804.03999
-CODE: https://github.com/LeeJunHyun/Image_Segmentation
+- IMAGE: ![Attention U-NET](https://raw.githubusercontent.com/Er-Divyesh-Sethiya/Architecture_for_vision_segmentation/main/Attention%20U-net.webp)
+- PAPER: https://arxiv.org/abs/1804.03999
+- CODE: https://github.com/LeeJunHyun/Image_Segmentation
 
 ### 13. DEXTR-NET ARCHITECTURE (DEEP EXTREME CUT)
 
