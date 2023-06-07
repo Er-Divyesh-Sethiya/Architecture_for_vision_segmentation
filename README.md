@@ -2,8 +2,8 @@
 Here are some commonly used Architecture for vision segmentation 
 - USEFUL LINK: 
 - https://github.com/osmr/imgclsmob
-- ![BACKBONE MODEL OF SEGMENTATION](https://github.com/qubvel/segmentation_models)
-- ![keras_unet_collection](https://github.com/yingkaisha/keras-unet-collection/tree/main/keras_unet_collection)
+- [BACKBONE MODEL OF SEGMENTATION](https://github.com/qubvel/segmentation_models)
+- [keras_unet_collection](https://github.com/yingkaisha/keras-unet-collection/tree/main/keras_unet_collection)
 
 ### 1. U-NET ARCHITECTURE
 
