@@ -1,5 +1,6 @@
 # Architecture_for_vision_segmentation
 Here are some commonly used Architecture for vision segmentation 
+USEFUL LINK: https://github.com/osmr/imgclsmob
 
 ### 1. U-NET ARCHITECTURE
 
@@ -17,38 +18,47 @@ CODE:https://github.com/tensorflow/models/tree/master/research/deeplab
 
 ### 3. FCN ARCHITECTURE (FULLY CONVOLUTIONAL NETWORK)
 
-IMAGE:
-PAPER:
-CODE:
+IMAGE:![new_alex-model](https://github.com/Er-Divyesh-Sethiya/Architecture_for_vision_segmentation/assets/103837830/83fb13ed-6677-44f7-8669-274d845e54d3)
+
+PAPER: https://paperswithcode.com/method/fcn
+CODE: https://paperswithcode.com/paper/fully-convolutional-networks-for-semantic
 
 ### 4. MASK-RCNN ARCHITECTURE
 
-IMAGE:
-PAPER:
-CODE:
+IMAGE:<img width="511" alt="Screen_Shot_2020-05-23_at_7 44 34_PM" src="https://github.com/Er-Divyesh-Sethiya/Architecture_for_vision_segmentation/assets/103837830/e8b35c45-2df9-4d31-8ea8-9d6bb3c94ffe">
+
+PAPER: https://paperswithcode.com/paper/mask-r-cnn
+CODE: https://github.com/matterport/Mask_RCNN
 
 ### 5. PSPNET ARCHITECTURE (PYRAMID SCENE PARSING NETWORK)
 
-IMAGE:
-PAPER:
-CODE:
+IMAGE: ![new_pspnet-eps-converted-to](https://github.com/Er-Divyesh-Sethiya/Architecture_for_vision_segmentation/assets/103837830/57e4e822-0947-4c33-a505-45593435e1c5)
+
+PAPER: https://arxiv.org/abs/1612.01105v2
+CODE: https://github.com/xitongpu/PSPNet
 
 ### 6. SEGNET ARCHITECTURE
 
-IMAGE:
-PAPER:
-CODE:
+IMAGE:<img width="892" alt="segnet_Vorazx7" src="https://github.com/Er-Divyesh-Sethiya/Architecture_for_vision_segmentation/assets/103837830/4b06a041-035b-4d41-90a3-46e113ea4a8a">
+
+PAPER: https://arxiv.org/abs/1511.00561v3
+CODE: https://github.com/yassouali/pytorch-segmentation/blob/8b8e3ee20a3aa733cb19fc158ad5d7773ed6da7f/models/segnet.py#L9
 
 ### 7. E-NET ARCHITECTURE
 
-IMAGE:
-PAPER:
-CODE:
+IMAGE:![48841468-7d885c80-edcc-11e8-887d-e7fde8859e0c](https://github.com/Er-Divyesh-Sethiya/Architecture_for_vision_segmentation/assets/103837830/fca4fadc-2161-4cc1-b778-70b8a18980d0)
+
+<img width="414" alt="Screen_Shot_2020-06-27_at_2 17 15_PM" src="https://github.com/Er-Divyesh-Sethiya/Architecture_for_vision_segmentation/assets/103837830/6514b295-e2fc-4c68-acf5-645d43ee468f">
+
+
+PAPER: https://arxiv.org/abs/1606.02147v1
+CODE: https://github.com/iArunava/ENet-Real-Time-Semantic-Segmentation/tree/8a09a709f46544b229b37654c57ce5ae512fd398
 
 ### 8. LINK-NET ARCHITECTURE
 
-IMAGE:
-PAPER:
+IMAGE: ![LinkNet-architectures-a-LinkNet-architecture-adapted-from-15-b-Simplification-of](https://github.com/Er-Divyesh-Sethiya/Architecture_for_vision_segmentation/assets/103837830/ea76ea27-5695-4459-8779-841bf35d9dd4)
+
+PAPER: [https://arxiv.org/pdf/1707.03718v1.pdf](https://arxiv.org/pdf/1707.03718.pdf)
 CODE:
 
 ### 9. REFINE-NET ARCHITECTURE
