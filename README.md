@@ -65,7 +65,7 @@ IMAGE: ![LinkNet-architectures-a-LinkNet-architecture-adapted-from-15-b-Simplifi
 
 ### 9. REFINE-NET ARCHITECTURE
 
-IMAGE: 
+IMAGE: ![REFINE-NET](https://raw.githubusercontent.com/Er-Divyesh-Sethiya/Architecture_for_vision_segmentation/main/1_y2LgyBC184ChEqkYUbv62Q.webp)
 - PAPER: https://arxiv.org/abs/1611.06612
 - CODE: [https://github.com/guosheng/refinenet](https://github.com/best-of-acrv/refinenet)
 
