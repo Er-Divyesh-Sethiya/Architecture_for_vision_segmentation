@@ -3,9 +3,10 @@ Here are some commonly used Architecture for vision segmentation
 
 ### 1. U-NET ARCHITECTURE
 
-IMAGE:
+IMAGE:![68747470733a2f2f692e696d6775722e636f6d2f6a6544567071462e706e67](https://github.com/Er-Divyesh-Sethiya/Architecture_for_vision_segmentation/assets/103837830/a4ad3ca7-1c73-4f36-9551-913ba7532a2f)
 
-LINK:
+PAPER: https://arxiv.org/abs/1505.04597
+CODE: https://github.com/milesial/Pytorch-UNet
 
 ### 2. DEEPLAB ARCHITECTURE
 
