@@ -81,8 +81,8 @@ IMAGE: <img width="1394" alt="Screen_Shot_2020-06-22_at_11 03 39_PM_64dSeMm" src
 
 IMAGE:![The-Architecture-of-BiSeNet-Bilateral-Segmentation-Network](https://github.com/Er-Divyesh-Sethiya/Architecture_for_vision_segmentation/assets/103837830/427e5fba-6d6f-4593-9fa0-0a99de1bdeb6)
 
-PAPER: https://arxiv.org/pdf/2104.13188.pdf
-CODE: https://github.com/Blaizzy/BiSeNet-Implementation
+- PAPER: https://arxiv.org/pdf/2104.13188.pdf
+- CODE: https://github.com/Blaizzy/BiSeNet-Implementation
 
 ### 12. ATTENTION U-NET ARCHITECTURE
 
@@ -323,3 +323,10 @@ CODE:
 IMAGE: 
 PAPER: https://arxiv.org/abs/2106.09748
 CODE:https://github.com/google-research/deeplab2
+
+### 50. LWBNA_U-NET ARCHITECTURE
+
+IMAGE:![Architecture-of-a-lightweight-Deep-Learning-model-LWBNA-Unet-developed-in-present-study](https://github.com/Er-Divyesh-Sethiya/Architecture_for_vision_segmentation/assets/103837830/66759ff3-31ac-4d6b-9e96-00c9ffac0ead)
+
+PAPER: https://www.nature.com/articles/s41598-022-12486-w
+CODE: https://pypi.org/project/lwbna-unet/
