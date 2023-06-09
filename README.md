@@ -1,6 +1,7 @@
 # Architectures_for_vision_segmentation
 Here are some commonly used Architecture for vision segmentation 
 - USEFUL LINK: 
+- https://github.com/openvinotoolkit/open_model_zoo/tree/master/models/public
 - https://github.com/osmr/imgclsmob
 - [BACKBONE MODEL OF SEGMENTATION](https://github.com/qubvel/segmentation_models)
 - [keras_unet_collection](https://github.com/yingkaisha/keras-unet-collection/tree/main/keras_unet_collection)
@@ -186,8 +187,8 @@ CODE: https://github.com/Tramac/Fast-SCNN-pytorch
 ### 26. HRNETV2 ARCHITECTURE (HIGH-RESOLUTION NETWORK VERSION 2)
 
 IMAGE:
-PAPER:
-CODE:
+- PAPER: https://ieeexplore.ieee.org/document/9052469
+- CODE: 
 
 ### 27. CONTEXT-NET ARCHITECTURE
 
